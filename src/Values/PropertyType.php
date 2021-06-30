@@ -4,6 +4,8 @@ namespace mehmetbulut\Zoopla\Values;
 
 class PropertyType extends ValuesBase
 {
+	// Added Poroperty enum for cases where type is not appropriate
+	const Property = 'property';
 	const BarnConversion = 'barn_conversion';
 	const BlockOfFlats = 'block_of_flats';
 	const Bungalow = 'bungalow';
