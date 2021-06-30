@@ -1,12 +1,12 @@
 {
-    "name": "mehmetbulut/zoopla",
-    "description": "PHP library for the Zoopla Real Time Property Datafeed Zoopla.",
+    "name": "wharfs/zoopla",
+    "description": "PHP library for the Zoopla Real Time Property Datafeed Zoopla. Forked for testing, please see parent repo. https://github.com/mehmetbltt23/zoopla",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "mehmetbltt",
-            "email": "mehmetbltt@gmail.com"
+            "name": "jay",
+            "email": "code@Wharfs.net"
         }
     ],
     "require": {
